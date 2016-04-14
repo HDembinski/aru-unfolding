@@ -1,3 +1,10 @@
+What is ARU?
+============
+
+ARU is short for Automatic Regularized Unfolding (ARU). It is a non-parametric algorithm to unfold detector effects from one-dimensional data distributions. The unfolded solution minimizes the mean integrated squared error (MISE) of the fit with respect to the data. ARU uses a completely unbinned analysis and a powerful regularization based on the information gain (relative entropy) in the solution. It provides a smooth estimate of the true underlying distribution with an error band that has proper Frequentist coverage.
+
+In contrast other algorihtms, ARU requires no manual tuning. In particular, the regularization parameter is picked automatically such that it minimizes the MISE. This means that ARU can be used as a black box algorithm, if necessary, and in a scenario where data needs to be unfolded automatically.
+
 Installation
 ============
 
