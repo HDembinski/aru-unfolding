@@ -81,11 +81,11 @@ The ARU source code is released under GPL v3, see the file COPYRIGHT.
 Copyright holder is the Karlsruhe Institute of Technology (KIT).
 Author contact is Dr. Hans Dembinski <hans.dembinski@gmail.com>.
 
-If you use ARU in your publication, please cite ARU as follows:
+If you use ARU in your publication, please cite our paper:
 
 H.P. Dembinski and M. Roth,
 An algorithm for automatic unfolding of one-dimensional data distributions,
-Nuclear Instruments and Methods in Physics Research A 729 (2103) 410 - 416
+Nuclear Instruments and Methods in Physics Research A 729 (2013) 410-416.
 
 The latest version of ARU is available from:
 https://github.com/HDembinski/aru-unfolding
