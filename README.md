@@ -79,7 +79,7 @@ Licence and citation
 
 The ARU source code is released under GPL v3, see the file COPYRIGHT.
 Copyright holder is the Karlsruhe Institute of Technology (KIT).
-Author contact is Dr. Hans Dembinski <hans.dembinski@gmail.com>.
+Author contact is Dr. Hans Dembinski.
 
 If you use ARU in your publication, please cite our paper:
 
